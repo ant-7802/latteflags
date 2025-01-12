@@ -1,5 +1,5 @@
 > [!NOTE]
-> If you find our repository useful don't forget to star!
+> Whatever isn't here is **[here](https://web.archive.org/web/20241231101520/https://github.com/espresso-soft/latteflags)**
 
 <h1 align="center">Fast Flags</h1>
 
@@ -184,6 +184,12 @@ Wish it was different than what it was
 ```json
 {
     "FIntGrassMovementReducedMotionFactor": "0"
+}
+```
+### Enable Highlight Outlines on any Rendering API
+```json
+{
+    "FIntGrassMovementReducedMotionFactor": "999"
 }
 ```
 ### No Bloom/Clouds
@@ -1083,7 +1089,12 @@ Switch your channel to zprojectuwpua for a temporary fix!
 ```
 
 <h1 align="center">User Interface/Visuals Experimental</h1>
-
+### New Experience Menu
+```json
+{
+    "FFlagRefactorInExpGameSettings2" "True"
+}
+```
 ### Custom Accessory Positions <sup>Working in game</sup>
 ```json
 {
