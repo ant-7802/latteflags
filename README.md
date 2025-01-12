@@ -1,14 +1,7 @@
 > [!NOTE]
 > If you find our repository useful don't forget to star!
 
-<h3 align="center">
-  <img src="assets/timeless.gif" width="256" alt="Playboi Carti">
-</h3>
-
-<h1 align="center">#RBXFLAG$</h1>
-
-<h4 align="center">Join our Discord Server to contribute & expand our list (We need you)</h4>
-<h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
+<h1 align="center">Fast Flags</h1>
 
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
@@ -30,7 +23,6 @@
 3. **Paste** in the **JSON**.
 4. **Save** and your good to go!
 
-<img src="/assets/tutorial260.gif" width="750"/>
 
 ## Normal Roblox Bootstrapper How to Use:
 ###### You can also do Roblox Studio
@@ -1783,10 +1775,7 @@ Switch your channel to zprojectuwpua for a temporary fix!
   </tr>
 </table>
 <div align="center">
-  
-  [![License](https://img.shields.io/github/license/pizzaboxer/bloxstrap)](https://github.com/espresso-soft/rbxflags/blob/main/LICENSE)
-  [![Version](https://img.shields.io/github/v/release/espresso-soft/rbxflags?color=7a39fb)](https://github.com/espresso-soft/rbxflags/releases/latest)
-  [![Discord](https://img.shields.io/discord/1241247795470536725?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/HNe7fzR9xg)
+
 
 </div>
 <h4 align="center">© 2024 Espresso Softworks All Rights Reserved.</h4>
