@@ -1682,10 +1682,16 @@ Switch your channel to zprojectuwpua for a temporary fix!
     "FIntNewDevConsoleMaxLogCount": "2147483647"
 }
 ```
-### Autoexplicativo Numero 13
+### Self Explanatory 13
 ```json
 {
     "FFlagDebugAlwaysDisplayRenderStats": "True"
+}
+```
+### Self Explanatory 14
+```json
+{
+    "FIntRenderMaxShadowAtlasUsageBeforeDownscale": "650"
 }
 ```
 
